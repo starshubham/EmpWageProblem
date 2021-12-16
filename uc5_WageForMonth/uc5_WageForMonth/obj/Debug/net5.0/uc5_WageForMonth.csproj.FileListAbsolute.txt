@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\bin\Debug\net5.0\uc5_WageForMonth.exe
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\bin\Debug\net5.0\uc5_WageForMonth.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\bin\Debug\net5.0\uc5_WageForMonth.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\bin\Debug\net5.0\uc5_WageForMonth.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\bin\Debug\net5.0\uc5_WageForMonth.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\bin\Debug\net5.0\ref\uc5_WageForMonth.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\bin\Debug\net5.0\uc5_WageForMonth.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\obj\Debug\net5.0\uc5_WageForMonth.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\obj\Debug\net5.0\uc5_WageForMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\obj\Debug\net5.0\uc5_WageForMonth.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\obj\Debug\net5.0\uc5_WageForMonth.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\obj\Debug\net5.0\uc5_WageForMonth.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\obj\Debug\net5.0\uc5_WageForMonth.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\obj\Debug\net5.0\ref\uc5_WageForMonth.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\obj\Debug\net5.0\uc5_WageForMonth.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc5_WageForMonth\uc5_WageForMonth\obj\Debug\net5.0\uc5_WageForMonth.genruntimeconfig.cache
