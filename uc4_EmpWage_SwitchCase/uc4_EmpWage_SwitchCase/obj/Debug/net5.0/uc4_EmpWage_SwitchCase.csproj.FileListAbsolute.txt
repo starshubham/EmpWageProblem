@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\bin\Debug\net5.0\uc4_EmpWage_SwitchCase.exe
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\bin\Debug\net5.0\uc4_EmpWage_SwitchCase.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\bin\Debug\net5.0\uc4_EmpWage_SwitchCase.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\bin\Debug\net5.0\uc4_EmpWage_SwitchCase.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\bin\Debug\net5.0\uc4_EmpWage_SwitchCase.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\bin\Debug\net5.0\ref\uc4_EmpWage_SwitchCase.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\bin\Debug\net5.0\uc4_EmpWage_SwitchCase.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\obj\Debug\net5.0\uc4_EmpWage_SwitchCase.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\obj\Debug\net5.0\uc4_EmpWage_SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\obj\Debug\net5.0\uc4_EmpWage_SwitchCase.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\obj\Debug\net5.0\uc4_EmpWage_SwitchCase.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\obj\Debug\net5.0\uc4_EmpWage_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\obj\Debug\net5.0\uc4_EmpWage_SwitchCase.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\obj\Debug\net5.0\ref\uc4_EmpWage_SwitchCase.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\obj\Debug\net5.0\uc4_EmpWage_SwitchCase.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc4_EmpWage_SwitchCase\uc4_EmpWage_SwitchCase\obj\Debug\net5.0\uc4_EmpWage_SwitchCase.genruntimeconfig.cache
