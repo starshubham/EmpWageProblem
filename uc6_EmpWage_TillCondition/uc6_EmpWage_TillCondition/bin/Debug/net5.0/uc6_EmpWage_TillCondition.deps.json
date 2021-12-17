@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "uc6_EmpWage_TillCondition/1.0.0": {
+        "runtime": {
+          "uc6_EmpWage_TillCondition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uc6_EmpWage_TillCondition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

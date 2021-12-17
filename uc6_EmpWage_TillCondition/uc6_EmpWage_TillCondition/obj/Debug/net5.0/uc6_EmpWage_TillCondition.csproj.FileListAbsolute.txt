@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\bin\Debug\net5.0\uc6_EmpWage_TillCondition.exe
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\bin\Debug\net5.0\uc6_EmpWage_TillCondition.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\bin\Debug\net5.0\uc6_EmpWage_TillCondition.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\bin\Debug\net5.0\uc6_EmpWage_TillCondition.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\bin\Debug\net5.0\uc6_EmpWage_TillCondition.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\bin\Debug\net5.0\ref\uc6_EmpWage_TillCondition.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\bin\Debug\net5.0\uc6_EmpWage_TillCondition.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\obj\Debug\net5.0\uc6_EmpWage_TillCondition.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\obj\Debug\net5.0\uc6_EmpWage_TillCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\obj\Debug\net5.0\uc6_EmpWage_TillCondition.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\obj\Debug\net5.0\uc6_EmpWage_TillCondition.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\obj\Debug\net5.0\uc6_EmpWage_TillCondition.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\obj\Debug\net5.0\uc6_EmpWage_TillCondition.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\obj\Debug\net5.0\ref\uc6_EmpWage_TillCondition.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\obj\Debug\net5.0\uc6_EmpWage_TillCondition.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc6_EmpWage_TillCondition\uc6_EmpWage_TillCondition\obj\Debug\net5.0\uc6_EmpWage_TillCondition.genruntimeconfig.cache
