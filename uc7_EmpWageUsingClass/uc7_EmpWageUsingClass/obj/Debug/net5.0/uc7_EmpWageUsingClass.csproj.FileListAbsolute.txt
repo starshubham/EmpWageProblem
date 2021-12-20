@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\bin\Debug\net5.0\uc7_EmpWageUsingClass.exe
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\bin\Debug\net5.0\uc7_EmpWageUsingClass.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\bin\Debug\net5.0\uc7_EmpWageUsingClass.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\bin\Debug\net5.0\uc7_EmpWageUsingClass.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\bin\Debug\net5.0\uc7_EmpWageUsingClass.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\bin\Debug\net5.0\ref\uc7_EmpWageUsingClass.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\bin\Debug\net5.0\uc7_EmpWageUsingClass.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\obj\Debug\net5.0\uc7_EmpWageUsingClass.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\obj\Debug\net5.0\uc7_EmpWageUsingClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\obj\Debug\net5.0\uc7_EmpWageUsingClass.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\obj\Debug\net5.0\uc7_EmpWageUsingClass.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\obj\Debug\net5.0\uc7_EmpWageUsingClass.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\obj\Debug\net5.0\uc7_EmpWageUsingClass.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\obj\Debug\net5.0\ref\uc7_EmpWageUsingClass.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\obj\Debug\net5.0\uc7_EmpWageUsingClass.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc7_EmpWageUsingClass\uc7_EmpWageUsingClass\obj\Debug\net5.0\uc7_EmpWageUsingClass.genruntimeconfig.cache
