@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\bin\Debug\net5.0\uc8_EmpWageForMultipleCompanies.exe
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\bin\Debug\net5.0\uc8_EmpWageForMultipleCompanies.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\bin\Debug\net5.0\uc8_EmpWageForMultipleCompanies.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\bin\Debug\net5.0\uc8_EmpWageForMultipleCompanies.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\bin\Debug\net5.0\uc8_EmpWageForMultipleCompanies.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\bin\Debug\net5.0\ref\uc8_EmpWageForMultipleCompanies.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\bin\Debug\net5.0\uc8_EmpWageForMultipleCompanies.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\obj\Debug\net5.0\uc8_EmpWageForMultipleCompanies.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\obj\Debug\net5.0\uc8_EmpWageForMultipleCompanies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\obj\Debug\net5.0\uc8_EmpWageForMultipleCompanies.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\obj\Debug\net5.0\uc8_EmpWageForMultipleCompanies.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\obj\Debug\net5.0\uc8_EmpWageForMultipleCompanies.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\obj\Debug\net5.0\uc8_EmpWageForMultipleCompanies.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\obj\Debug\net5.0\ref\uc8_EmpWageForMultipleCompanies.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\obj\Debug\net5.0\uc8_EmpWageForMultipleCompanies.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc8_EmpWageForMultipleCompanies\uc8_EmpWageForMultipleCompanies\obj\Debug\net5.0\uc8_EmpWageForMultipleCompanies.genruntimeconfig.cache
