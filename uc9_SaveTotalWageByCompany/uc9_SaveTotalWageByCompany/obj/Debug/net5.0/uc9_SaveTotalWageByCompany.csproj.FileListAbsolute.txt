@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\obj\Debug\net5.0\uc9_SaveTotalWageByCompany.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\obj\Debug\net5.0\uc9_SaveTotalWageByCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\obj\Debug\net5.0\uc9_SaveTotalWageByCompany.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\obj\Debug\net5.0\uc9_SaveTotalWageByCompany.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\obj\Debug\net5.0\uc9_SaveTotalWageByCompany.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\bin\Debug\net5.0\uc9_SaveTotalWageByCompany.exe
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\bin\Debug\net5.0\uc9_SaveTotalWageByCompany.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\bin\Debug\net5.0\uc9_SaveTotalWageByCompany.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\bin\Debug\net5.0\uc9_SaveTotalWageByCompany.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\bin\Debug\net5.0\uc9_SaveTotalWageByCompany.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\bin\Debug\net5.0\ref\uc9_SaveTotalWageByCompany.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\bin\Debug\net5.0\uc9_SaveTotalWageByCompany.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\obj\Debug\net5.0\uc9_SaveTotalWageByCompany.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\obj\Debug\net5.0\ref\uc9_SaveTotalWageByCompany.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\obj\Debug\net5.0\uc9_SaveTotalWageByCompany.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc9_SaveTotalWageByCompany\uc9_SaveTotalWageByCompany\obj\Debug\net5.0\uc9_SaveTotalWageByCompany.genruntimeconfig.cache
