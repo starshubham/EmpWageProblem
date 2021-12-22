@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "uc10_ManageEmpWageForMulCompanies/1.0.0": {
+        "runtime": {
+          "uc10_ManageEmpWageForMulCompanies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uc10_ManageEmpWageForMulCompanies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
