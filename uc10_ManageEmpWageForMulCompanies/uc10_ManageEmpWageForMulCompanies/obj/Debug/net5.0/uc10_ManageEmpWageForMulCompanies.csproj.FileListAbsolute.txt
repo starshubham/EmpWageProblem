@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\bin\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.exe
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\bin\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\bin\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\bin\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\bin\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\bin\Debug\net5.0\ref\uc10_ManageEmpWageForMulCompanies.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\bin\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\obj\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\obj\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\obj\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\obj\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\obj\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\obj\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\obj\Debug\net5.0\ref\uc10_ManageEmpWageForMulCompanies.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\obj\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\uc10_ManageEmpWageForMulCompanies\uc10_ManageEmpWageForMulCompanies\obj\Debug\net5.0\uc10_ManageEmpWageForMulCompanies.genruntimeconfig.cache
