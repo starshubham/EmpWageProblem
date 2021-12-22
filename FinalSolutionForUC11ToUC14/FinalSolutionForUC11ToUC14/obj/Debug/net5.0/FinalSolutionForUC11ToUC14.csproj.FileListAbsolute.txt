@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\obj\Debug\net5.0\FinalSolutionForUC11ToUC14.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\obj\Debug\net5.0\FinalSolutionForUC11ToUC14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\obj\Debug\net5.0\FinalSolutionForUC11ToUC14.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\obj\Debug\net5.0\FinalSolutionForUC11ToUC14.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\obj\Debug\net5.0\FinalSolutionForUC11ToUC14.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\bin\Debug\net5.0\FinalSolutionForUC11ToUC14.exe
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\bin\Debug\net5.0\FinalSolutionForUC11ToUC14.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\bin\Debug\net5.0\FinalSolutionForUC11ToUC14.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\bin\Debug\net5.0\FinalSolutionForUC11ToUC14.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\bin\Debug\net5.0\FinalSolutionForUC11ToUC14.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\bin\Debug\net5.0\ref\FinalSolutionForUC11ToUC14.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\bin\Debug\net5.0\FinalSolutionForUC11ToUC14.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\obj\Debug\net5.0\FinalSolutionForUC11ToUC14.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\obj\Debug\net5.0\ref\FinalSolutionForUC11ToUC14.dll
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\obj\Debug\net5.0\FinalSolutionForUC11ToUC14.pdb
+C:\Users\My Laptop\Desktop\BrProjects\EmpWageAssign-1\FinalSolutionForUC11ToUC14\FinalSolutionForUC11ToUC14\obj\Debug\net5.0\FinalSolutionForUC11ToUC14.genruntimeconfig.cache
